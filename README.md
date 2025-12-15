@@ -1,4 +1,4 @@
-# Smart-Walking-Companion-YOLO-Flutter -
+# Smart Walking Companion |YOLO,Flutter
 # Smart Walking Companion for Visually Impaired People
 
 ## Project Overview
@@ -49,7 +49,6 @@ This project was developed as a **Senior Engineering Project**.
   - Solar-powered rechargeable battery
 
 ## Technologies Used
-
 ### Software
 - Python
 - YOLOv10 (PyTorch)
